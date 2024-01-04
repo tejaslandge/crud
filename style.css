@@ -1,0 +1,27 @@
+label {
+    font-weight: bold;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div {
+    opacity: 0.9;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    border-radius: 10px;
+    text-align: center;
+    position: absolute;
+    background-color: silver;
+}
+
+input {
+    border-radius: 5px;
+    align-items: center;
+}
+
+body {
+    background-image: url('hostel_back.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
